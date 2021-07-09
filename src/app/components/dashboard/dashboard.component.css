@@ -1,0 +1,15 @@
+.clima{
+    background-color: rgba(240, 248, 255, .3);
+    border-radius: 20px;
+    height: 600px;
+    padding-top: 50px;
+    text-align: center;
+}
+.pincipal{
+    border-radius: 20px;
+    background-color: rgba(240, 248, 255, .3);
+    /* justify-content: space-around */
+}
+.card{
+    background-color: transparent;
+}
